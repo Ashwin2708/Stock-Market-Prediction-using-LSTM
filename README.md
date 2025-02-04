@@ -42,7 +42,9 @@ This project leverages a Long Short-Term Memory (LSTM) machine learning model to
 4. Request a prediction for the next trading day.
 
 ## 📸 Screenshots
-_Add screenshots showcasing the chart visualizations and next-day predictions._
+![image](https://github.com/user-attachments/assets/f41df080-4df1-4000-8f4d-31444a6d0ebf)
+
+![image](https://github.com/user-attachments/assets/849e82e8-a6c8-4ecd-a252-4cba1c49656e)
 
 ## 🤝 Collaboration
 Contributions are welcome! Please follow these steps:
