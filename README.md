@@ -63,5 +63,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - Improve model accuracy with hyperparameter tuning.
 
 ## 📬 Contact
-For any queries or support, feel free to contact [your_email@example.com].
+For any queries or support, feel free to contact [ashwink0027@gmail.com].
 
